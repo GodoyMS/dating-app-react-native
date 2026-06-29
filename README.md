@@ -1,4 +1,4 @@
-# FullTimeForce Challenge App
+# Dating App for Android & iOS
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="screenshots/1.png" alt="Screenshot 1" width="30%" />
