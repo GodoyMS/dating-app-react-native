@@ -60,8 +60,8 @@ To test the app on iOS, you can use **Expo Go**. This method does not require an
    First, you need to clone or download this repository to your local machine.
 
    ```bash
-   git clone https://github.com/GodoyMS/fulltimeforce-challengue.git
-   cd fulltimeforce-challengue
+   git clone https://github.com/GodoyMS/dating-app-react-native.git
+   cd dating-app-react-native
 
 2. **Install Expo Go on your iPhone**:
    - Go to the **App Store** on your iPhone and search for **Expo Go**.
